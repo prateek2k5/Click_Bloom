@@ -27,13 +27,11 @@ This project is lightweight, easy to understand, and perfect for beginners who w
 
 ## 📂 Project Structure
 
-
-Click-Bloom/
-|
-|-- index.html
-|-- style.css
-|-- script.js
-`-- README.md
-
+<pre> Click-Bloom/ 
+  │ 
+  ├── index.html # Main HTML file 
+  ├── style.css # Styles and flower animations 
+  ├── script.js # Click event logic and flower generation 
+  └── README.md # Project documentation </pre>
 
 
